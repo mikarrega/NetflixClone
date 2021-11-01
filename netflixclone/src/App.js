@@ -5,7 +5,6 @@ import FeatureMovie from './Components/FeatureMovie/FeatureMovie'
 import Header from './Components/Header/Header'
 
 import './App.css'
-import Footer from './Components/Footer/Footer'
 
 const PagePrincipal = () => {
 
